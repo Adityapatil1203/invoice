@@ -1,0 +1,175 @@
+/* .invoice-container {
+    width: 210mm;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    background-color: #fff;
+  }
+  
+  .invoice-header {
+    text-align: center;
+    border-bottom: 1px solid #000;
+    padding-bottom: 10px;
+  }
+  
+  .invoice-logo {
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .invoice-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .seller-details,
+  .billing-details,
+  .shipping-details {
+    width: 30%;
+  }
+  
+  .order-details {
+    margin-top: 20px;
+  }
+  
+  .invoice-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .invoice-table th, .invoice-table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .total-section {
+    margin-top: 20px;
+    text-align: right;
+  }
+  
+  .signature-section {
+    float: right;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .signature-image {
+    width: 100px;
+    margin-top: 10px;
+  }
+  
+  .invoice-footer {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+   */
+
+   .invoice-container {
+    width: 210mm;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    background-color: #fff;
+  }
+  
+  .invoice-header {
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+  }
+  
+  .invoice-logo {
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .invoice-header h2 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .invoice-header h3 {
+    font-size: 12px;
+    margin-top: 5px;
+    font-weight: normal;
+  }
+  
+  .invoice-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .details-block {
+    width: 30%;
+    border: 1px solid #000;
+    padding: 10px;
+    font-size: 12px;
+  }
+  
+  .details-block h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .order-details {
+    margin-top: 20px;
+    border: 1px solid #000;
+    padding: 10px;
+  }
+  
+  .order-details p {
+    margin: 5px 0;
+    font-size: 12px;
+  }
+  
+  .invoice-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+  
+  .invoice-table th, .invoice-table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .invoice-table th {
+    background-color: #f3f3f3;
+    font-weight: bold;
+  }
+  
+  .total-section {
+    margin-top: 20px;
+    text-align: right;
+    font-weight: bold;
+  }
+  
+  .signature-section {
+    text-align: left;
+    margin-top: 20px;
+  }
+  
+  .signature-image {
+    width: 100px;
+    margin-top: 10px;
+  }
+  
+  .invoice-footer {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
